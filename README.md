@@ -50,7 +50,7 @@
 
 <h2>🌸 Current Projects</h2>
 
-- 🌐 Building my personal portfolio in pink + minimal black
+- 🌐 Building my personal portfolio
 - 💻 Exploring JavaScript DOM interactions
 - 🎨 Learning to make responsive, aesthetic layouts
 - 💌 Practicing accessibility and clean code standards
